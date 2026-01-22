@@ -27,7 +27,7 @@ Read my blogs
 </a>
 </li>
 <li>
-<a href="mailto:shwethaadiraj@gmail.com?subject=Saw%20your%20portfolio%20and%20wanted%20to%20connect">
+<a href="mailto:shwethaadiraj@gmail.com?subject=Saw%20your%github%20and%20wanted%20to%20connect">
 Send me an email!
 </a>
 </li>
