@@ -2,9 +2,18 @@
 
 # A Little About Me
 
-I remember the day my dad had bought home one of those old timey monitors. I've always been a tinkerer by nature and from then on, through the Internet, the world became my oyster. Subsequently, I chose to pursue a degree in Computer Science and Engineering. Currently, I'm a software engineer with almost 3 years of full-time experience.
+I remember the day my dad had bought home one of those old timey monitors. I've always been a tinkerer by nature and from then on, through the Internet, the world became my oyster. Subsequently, I chose to pursue a degree in Computer Science and Engineering. Currently, I'm working as a software engineer with around 3 years of experience.
 
 In my free time, you can find me reading books, solving puzzles, building stuff or enjoying a nice cup of tea.
+
+# Tech Stack
+
+I love to tinker around with a few languages, but my primary tech stack would be the following:
+
+- Node.js
+- React
+- Typescript
+- Next.js
 
 # Let's Connect!
 
