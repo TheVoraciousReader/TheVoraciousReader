@@ -12,7 +12,7 @@ I love to tinker around with a few languages, but my primary tech stack would be
 
 - Next.js
 - React
-- TypeScript / JavaScript
+- TypeScript
 - .NET
 
 # Let's Connect!
