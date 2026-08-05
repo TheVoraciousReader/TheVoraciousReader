@@ -36,8 +36,8 @@ Read my blogs
 </a>
 </li>
 <li>
-<a href="mailto:shwethaadiraj@gmail.com?subject=Saw%20your%20github%20and%20wanted%20to%20connect">
-Send me an email!
+<a href="https://x.com/FieryBookaholic">
+Follow me on X
 </a>
 </li>
 </ol>
