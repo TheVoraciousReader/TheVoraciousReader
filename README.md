@@ -27,7 +27,7 @@ Follow me on Linkedin
 </li>
 <li>
 <a href="https://www.shwethaadiraj.com" target="_blank">
-Check out my portfolio
+My little corner of the internet
 </a>
 </li>
 <li>
@@ -39,6 +39,10 @@ Read my blogs
 <a href="https://x.com/FieryBookaholic">
 Follow me on X
 </a>
+<li>
+<a href="https://shwethaadiraj1.substack.com">
+I have a substack 
+</a> where I post monthly curated links from the parts of the web I still like. De slopify your algorithm with me :)
 </li>
 </ol>
 
